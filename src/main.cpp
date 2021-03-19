@@ -35,6 +35,7 @@
 #endif
 
 //Rtc<TwoWire> Rtc(Wire);
+//Adafruit RCT
 RTC_DS3231 Rtc;
 
 //AsyncWebServer server(80);
